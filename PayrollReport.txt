@@ -1,0 +1,23 @@
+﻿============================================================
+          BẢNG LƯƠNG NHÂN VIÊN CUỐI THÁNG
+============================================================
+Ngày xuất      : 20/05/2026 11:05:50
+Cách tính thuế : Thuế lũy tiến mô phỏng
+Số nhân viên   : 4
+------------------------------------------------------------
+FT001      | Nguyễn Văn An             | Full-time  | Gross:  18.010.000 VND | Thuế:     451.000 VND | Thực nhận:  17.559.000 VND
+  Chấm công: Ngày công: 26, Giờ làm: 0, Nghỉ phép: 1, Nghỉ không phép: 0, Đi trễ: 1, Tăng ca: 8
+------------------------------------------------------------
+FT002      | Trần Thị Bình             | Full-time  | Gross:  13.830.000 VND | Thuế:     141.500 VND | Thực nhận:  13.688.500 VND
+  Chấm công: Ngày công: 24, Giờ làm: 0, Nghỉ phép: 0, Nghỉ không phép: 2, Đi trễ: 3, Tăng ca: 4
+------------------------------------------------------------
+PT001      | Lê Minh Cường             | Part-time  | Gross:   5.715.000 VND | Thuế:           0 VND | Thực nhận:   5.715.000 VND
+  Chấm công: Ngày công: 18, Giờ làm: 96, Nghỉ phép: 0, Nghỉ không phép: 0, Đi trễ: 2, Tăng ca: 6
+------------------------------------------------------------
+PT002      | Phạm Gia Hân              | Part-time  | Gross:   8.100.000 VND | Thuế:           0 VND | Thực nhận:   8.100.000 VND
+  Chấm công: Ngày công: 20, Giờ làm: 120, Nghỉ phép: 0, Nghỉ không phép: 0, Đi trễ: 0, Tăng ca: 10
+------------------------------------------------------------
+TỔNG LƯƠNG GROSS : 45.655.000 VND
+TỔNG THUẾ        : 592.500 VND
+TỔNG THỰC NHẬN   : 45.062.500 VND
+============================================================
